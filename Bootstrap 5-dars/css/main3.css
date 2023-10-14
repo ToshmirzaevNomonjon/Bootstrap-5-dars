@@ -1,0 +1,82 @@
+.html{
+    position: relative;
+    right: 250px;
+    font-size: 20px;
+    padding-top: 55px;
+    background-color: #1955bf;
+}
+.olti{
+    color: black;
+    position: relative;
+    z-index: 1;
+    bottom: 43px;
+    font-weight: bold;
+    left: 730px;
+    font-size: 15px;
+}
+.html1{
+    position: relative;
+    right: 160px;
+    font-size: 20px;
+    padding-top: 55px;
+    background-color: green;
+}
+.tort{
+    color: black;
+    position: relative;
+    z-index: 1;
+    bottom: 43px;
+    font-weight: bold;
+    left: 840px;
+    font-size: 15px;
+}
+.ikki{
+    color: black;
+    position: relative;
+    z-index: 1;
+    bottom: 43px;
+    font-weight: bold;
+    left: 950px;
+    font-size: 15px;
+}
+.html2{
+    position: relative;
+    right: 10px;
+    padding-right: 110px;
+    font-size: 20px;
+    padding-top: 55px;
+    background-color: #0592bf;
+}
+.olti1{
+    color: black;
+    position: relative;
+    z-index: 1;
+    bottom:43px;
+    font-weight: bold;
+    left: 730px;
+    font-size: 15px;
+}
+.html3{
+    position: relative;
+    right: 200px;
+    padding-right: 65px;
+    font-size: 20px;
+    padding-top: 55px;
+    background-color: #b87e11;
+}
+.sakkiz{
+    color: black;
+    position: absolute;
+    top: 5px;
+    font-weight: bold;
+    left: 1065px;
+    font-size: 15px;
+}
+.html4{
+    position: relative;
+    right: 730px;
+    padding-left: 705px;
+    font-size: 20px;
+    padding-top: 15px;
+    background-color: #b80505;
+}

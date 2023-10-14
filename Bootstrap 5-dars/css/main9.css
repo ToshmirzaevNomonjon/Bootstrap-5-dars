@@ -1,0 +1,40 @@
+.xx{
+    background-color: #efefef;
+}
+.xx1{
+   background-color: #f7ffd4;
+}
+.hr{
+    border: 1px solid white;
+    position: relative;
+    top: 17px;
+}
+.tr1{
+    background-color: rgba(255,198,195,0.7);
+}
+.tr2{
+    background-color: white;
+}
+.tr3{
+    background-color: whitesmoke;
+}
+.tr4{
+    background-color: rgba(247,255,212,0.7);
+}
+.tr5{
+    background-color: #cdeaff;
+}
+.x{
+    background-color: red;
+}
+.xz{
+    background-color: whitesmoke;
+}
+.zz{
+    position: relative;
+    right: 20px !important;
+    top: 25px !important;
+}
+.z1{
+
+}
